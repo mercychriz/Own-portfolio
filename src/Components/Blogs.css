@@ -1,0 +1,40 @@
+.blogger{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    margin-left: 10px;
+    color: whitesmoke;
+}
+.blogger11{
+   
+    box-shadow: 10px 10px 10px;
+}
+.blogss{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+  
+}
+.blogger1{
+ flex: 1px;
+
+}
+.blogger2{
+    flex: 1px;
+  
+   }
+   .blogger3{
+    flex: 1px;
+    
+   }
+   button{
+    background-color: blueviolet;
+    color: antiquewhite;
+    border-radius: 60px;
+    width: 30%;
+    height: 150x;
+   }

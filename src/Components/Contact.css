@@ -1,0 +1,49 @@
+.contact{
+    text-align: center;
+    padding-left: 17px;
+    color: whitesmoke;
+}
+.contacts{
+    display: flex;
+    color: whitesmoke;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+}
+.contact1{
+    flex: 1;
+}
+ #name, #email{
+    width: 45%;
+    flex: 1;
+padding: 15px;
+border-radius: 10px;
+margin: 0px 20px 0px 0px;
+margin-bottom: 10px;
+ 
+}
+#subject{
+    width: 100%;
+    padding: 15px;
+ margin-bottom: 10px;
+ border-radius: 10px;
+}
+
+textarea{
+    padding-top: 30px;
+    width: 100%;
+    padding: 40px;
+ 
+    border-radius: 10px;
+
+}
+.form1{
+    align-items: center;
+    justify-content: center;
+
+}
+.form2{
+
+  margin-left: 60px;
+  margin-right: 60px;
+}

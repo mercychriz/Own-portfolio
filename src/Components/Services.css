@@ -1,0 +1,21 @@
+.services{
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+.table{
+    justify-content: center;
+    align-items: center;
+    border: 1px;
+}
+table, tr, td{
+    border: 1px ;
+    box-shadow: 10px 10px 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+  ; 
+    
+}
+h1{
+    color: rgb(169, 137, 200);
+}
